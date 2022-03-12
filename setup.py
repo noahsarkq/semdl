@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "1"
+VERSION = "1.1"
 DESCRIPTION = "SemDownloader"
 LONG_DESC = open("./README.md", "r").read()
 KEYWORDS = "Semdl"
